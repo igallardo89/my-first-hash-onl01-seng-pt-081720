@@ -22,6 +22,9 @@ def adding
   shipping_manifest["muskets"]=2
   
 end
+shipping_manifest
+  
+end
 
  
  
