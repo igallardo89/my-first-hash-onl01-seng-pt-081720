@@ -20,8 +20,6 @@ def adding
     
   shipping_manifest["gun powder"]=4
   shipping_manifest["muskets"]=2
-  
-end
  return shipping_manifest
   
 end
